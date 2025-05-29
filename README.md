@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="400" />
 </div>
 <h1 align="center">Hi 👋, I'm Phatma</h1>
-<h3 align="center">I am new to programming. I chose the frontend field, I am determined to increase and develop my knowledge in this field. Here I share the projects I have done for my own development. Studied Computer Science at the University of Technical. Baku, Azerbaijan. </h3>
+<h3 align="center">I am a motivated and open-minded young man intends to pursue a career in Frontend Developer.Here I share the projects I have done for my own development. Studied Computer Science at the University of Technical. Baku, Azerbaijan. </h3>
 
 - 🌱 I’m currently learning **Javascript, React js, Redux-toolkit**
 
